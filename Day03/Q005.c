@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+ float c, f;
+ scanf("%f", &c);
+ f = (c * 9 / 5) + 32;
+ printf("fahrenheit=%.0f", f);
+    return 0;
+
+}
