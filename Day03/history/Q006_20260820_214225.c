@@ -11,7 +11,7 @@ int main() {
  a = b;
  b = temp;
 
- printf("after swap: %d %d", a, b);
+ printf("after swap: %d %f", a, b);
 
     return 0;
 
